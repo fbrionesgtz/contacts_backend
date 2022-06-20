@@ -1,4 +1,4 @@
-# Contacts backend
+# Contacts Backend
 
 This project is the backend for the Contacts app
 
