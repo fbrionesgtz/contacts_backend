@@ -19,3 +19,7 @@ You will need to have XAMPP installed in your computer and a phpMyAdminAccount
    ```
 2. Start your Apache server
 3. Run the dbseed.php file
+4. Start the vendor server
+    ```sh
+   php -S 127.0.0.1:8081 -t public
+   ```
